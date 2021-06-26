@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 6d0aefa2b1834ce4091ea1301660e628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3789043502513620504
+    second: Running Samurai clone_0
+  - first:
+      213: 4539008933803581358
+    second: Running Samurai clone_1
+  - first:
+      213: 8075680389089081692
+    second: Running Samurai clone_2
+  - first:
+      213: -2901205696857119265
+    second: Running Samurai clone_3
+  - first:
+      213: 3025253223079575385
+    second: Running Samurai clone_4
+  - first:
+      213: 6189439263369412197
+    second: Running Samurai clone_5
+  - first:
+      213: 1076793924227747426
+    second: Running Samurai clone_6
+  - first:
+      213: 8366275376103891811
+    second: Running Samurai clone_7
+  - first:
+      213: -5735108093868627169
+    second: Running Samurai clone_8
+  - first:
+      213: -4779715273312660780
+    second: Running Samurai clone_9
+  - first:
+      213: 5832756112183375631
+    second: Running Samurai clone_10
+  - first:
+      213: 2598790129399065159
+    second: Running Samurai clone_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Running Samurai clone_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3197
+        width: 614
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708762d9874fbb742a259a05dd7dc6d5
+      internalID: -3789043502513620504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 3197
+        width: 646
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e0acb1f0c9d140b6f44f247b2f7a0
+      internalID: 4539008933803581358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_2
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3197
+        width: 614
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe7e58494f5bb4da71561993d6b8c0
+      internalID: 8075680389089081692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2173
+        width: 646
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee30cb67aa44e1448e3cfa4a651471f
+      internalID: -2901205696857119265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_4
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2173
+        width: 614
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326b2e6fe129284fbb76da7c0d95491
+      internalID: 3025253223079575385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_5
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2173
+        width: 614
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569d9607a86ba84d9391705ad1ea69d
+      internalID: 6189439263369412197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1149
+        width: 678
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0fafbffd45012458ae9258b3f4c944
+      internalID: 1076793924227747426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1149
+        width: 742
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eaf211ad17f8949ae6468a26bd8252
+      internalID: 8366275376103891811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_8
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1149
+        width: 774
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547302f90d84df4cb14a826b78c2931
+      internalID: -5735108093868627169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 189
+        width: 934
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82318baff9f30074e95cddba15f64341
+      internalID: -4779715273312660780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_10
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 189
+        width: 934
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a21ea88a3a3294ea1b817866487ace
+      internalID: 5832756112183375631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Samurai clone_11
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 189
+        width: 934
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c270158ff81e47821e684ea9201fd
+      internalID: 2598790129399065159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f7efd795765e3e42bd33bf9eb684af1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

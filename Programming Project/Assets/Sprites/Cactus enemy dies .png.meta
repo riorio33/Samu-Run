@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 2b65e2b2f03ce4e44abd77685f21f63c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 226396561412512743
+    second: Cactus enemy dies _0
+  - first:
+      213: -8329871504150744802
+    second: Cactus enemy dies _1
+  - first:
+      213: -1901818565827376931
+    second: Cactus enemy dies _2
+  - first:
+      213: -284936736654994689
+    second: Cactus enemy dies _3
+  - first:
+      213: -3150192913808000027
+    second: Cactus enemy dies _4
+  - first:
+      213: 2547609023168769416
+    second: Cactus enemy dies _5
+  - first:
+      213: 6238451340922373497
+    second: Cactus enemy dies _6
+  - first:
+      213: -3889045003198408813
+    second: Cactus enemy dies _7
+  - first:
+      213: -5156170406683730126
+    second: Cactus enemy dies _8
+  - first:
+      213: -2049014821255431965
+    second: Cactus enemy dies _9
+  - first:
+      213: -595595946551567347
+    second: Cactus enemy dies _10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cactus enemy dies _0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2047
+        width: 675
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f97a3736b5d24790f34f23c91294c
+      internalID: 226396561412512743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2047
+        width: 676
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638a8d1b320feec458abaaecd8d9127c
+      internalID: -8329871504150744802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _2
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2047
+        width: 804
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a67876c3fc62c499076c66edc3dc5c
+      internalID: -1901818565827376931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1022
+        width: 804
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734fbbe167b0f5e44a13d86fa0e44dd1
+      internalID: -284936736654994689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1022
+        width: 802
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf296e4abac7d14d8af766290f71d17
+      internalID: -3150192913808000027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _5
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1026
+        width: 836
+        height: 804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cfba0de82e88a48b4d44bd6b6f2649
+      internalID: 2547609023168769416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 638
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac9856ca65f9f439345662ab401020
+      internalID: 6238451340922373497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 670
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05ba4f4094d144eb215b590c6bc28b
+      internalID: -3889045003198408813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 804
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd621cdf3fc4154fb87a065c00ee5a0
+      internalID: -5156170406683730126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 802
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf39b1b3609c3d4d8e00f6890abea76
+      internalID: -2049014821255431965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus enemy dies _10
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 0
+        width: 804
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a4a4c02b01004a8179f61fe3d2c09
+      internalID: -595595946551567347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 307b36e52bfb5994f841a654ac23259b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

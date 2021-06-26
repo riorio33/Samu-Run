@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 3833138da84d37744805cc5177927bb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6218833903887592122
+    second: Attacking Samurai
+  - first:
+      213: 3594628686029821668
+    second: Attacking Samurai_0
+  - first:
+      213: -7626718337083052018
+    second: Attacking Samurai_1
+  - first:
+      213: 7363100742846481320
+    second: Attacking Samurai_2
+  - first:
+      213: -2466201562215184328
+    second: Attacking Samurai_3
+  - first:
+      213: -6376010641075572289
+    second: Attacking Samurai_4
+  - first:
+      213: -222715696046181364
+    second: Attacking Samurai_5
+  - first:
+      213: 4336368915178760573
+    second: Attacking Samurai_6
+  - first:
+      213: 1769417462770834453
+    second: Attacking Samurai_7
+  - first:
+      213: -4228133926730293925
+    second: Attacking Samurai_8
+  - first:
+      213: 1116978191871946171
+    second: Attacking Samurai_9
+  - first:
+      213: -1852224518807148322
+    second: Attacking Samurai_10
+  - first:
+      213: 1633991714830331391
+    second: Attacking Samurai_11
+  - first:
+      213: 2764812518719948743
+    second: Attacking Samurai_12
+  - first:
+      213: -3808389490061994388
+    second: Attacking Samurai_13
+  - first:
+      213: -7278868033385802697
+    second: Attacking Samurai_14
+  - first:
+      213: -2528033395743691874
+    second: Attacking Samurai_15
+  - first:
+      213: 4794980809831674239
+    second: Attacking Samurai_16
+  - first:
+      213: -6029134661070638291
+    second: Attacking Samurai_17
+  - first:
+      213: -6359759362486175809
+    second: Attacking Samurai_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attacking Samurai_0
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 4795
+        width: 851
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873995609ae60264caa6888a844f2f6a
+      internalID: 3594628686029821668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_2
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 4796
+        width: 925
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa10b658451e74bb63290e1cbd2ff5
+      internalID: 7363100742846481320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_4
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 4796
+        width: 1184
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01db57f7de3604fb283bf99709880c
+      internalID: -6376010641075572289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2750
+        width: 1186
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7bce9487245743895ff441722c1b9
+      internalID: -4228133926730293925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_10
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2750
+        width: 1190
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32b415ead27b84abaff9af6380f4f1
+      internalID: -1852224518807148322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_11
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 2750
+        width: 1156
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bd4c1d0498b5458c7741e872c0103
+      internalID: 1633991714830331391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 699
+        width: 1165
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59521934fafd954699e262a3a4c7515
+      internalID: 2764812518719948743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacking Samurai_14
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 701
+        width: 776
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68fda3cbdaa0742a75909ff4daa84b
+      internalID: -7278868033385802697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 374d79870ba2d3e4b829f30ba017e0da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
